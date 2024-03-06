@@ -9,6 +9,8 @@ let currentYear = '2024';
 let picture = 'images/me.jpg';
 const favFoods = ['Tacos',' Pizza',' Steak',' Noodles'];
 
+let another = ' Fried Chicken';
+
 /* Step 3 - Element Variables */
 
 const nameElement = document.getElementById('name')
@@ -16,28 +18,23 @@ const yearElement = document.querySelector('#year');
 const imageElement = document.querySelector('img');
 const foodElement = document.querySelector('#food');
 
-document.getElementById('food1').innerHTML = favFoods;
-favFoods.push(' Fried Chicken');
-
-document.getElementById('food2').innerHTML = favFoods;
-favFoods.shift();
-
-document.getElementById('food3').innerHTML = favFoods;
-favFoods.pop();
-
-document.getElementById('food4').innerHTML = favFoods;
 
 /* Step 4 - Adding Content */
 
-nameElement.innerHTML = fullName;
-foodElement.innerHTML += favFoods;
+nameElement.innerHTML = `<strong>${fullName}</strong>`;
+foodElement.innerHTML += `${favFoods}`;
+favFoods.push(another);
+foodElement.innerHTML += `<br>${favFoods}`;
+favFoods.shift();
+foodElement.innerHTML += `<br>${favFoods}`;
+favFoods.pop();
+foodElement.innerHTML += `<br>${favFoods}`;
 yearElement.textContent = currentYear;
 imageElement.setAttribute('src',profilePicture);
 profilePicture.setAttribute('Profile image of [picture]')
 
 
 /* Step 5 - Array */
-
 
 
 
