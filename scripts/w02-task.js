@@ -15,7 +15,7 @@ let another = ' Fried Chicken';
 
 const nameElement = document.getElementById('name')
 const yearElement = document.querySelector('#year');
-const imageElement = document.querySelector('img');
+const imageElement = document.querySelector('#img');
 const foodElement = document.querySelector('#food');
 
 
@@ -30,8 +30,7 @@ foodElement.innerHTML += `<br>${favFoods}`;
 favFoods.pop();
 foodElement.innerHTML += `<br>${favFoods}`;
 yearElement.textContent = currentYear;
-imageElement.setAttribute('src',profilePicture);
-profilePicture.setAttribute('Profile image of [picture]')
+imageElement.setAttribute('src', picture);
 
 
 /* Step 5 - Array */
