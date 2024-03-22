@@ -25,7 +25,7 @@ let myProfile = {
     placesLived: [
         {
             place:'Quetzaltenango, GT', 
-            lenght:'30 years'
+            length:'30 years'
         },
         {
             place: 'Guatemala City, GT', 
@@ -73,5 +73,5 @@ place.forEach(countPlaces)
 document.getElementById("places-lived").innerHTML = placesOut;
 
 function countPlaces(place) {
-    placesOut += "<dt>" + place.place + "</dt>" + "<dd>" + place.length + " years" + "</dt>";
+    placesOut += "<dt>" + place.place + "</dt>" + "<dd>" + place.length + "</dt>";
 }
