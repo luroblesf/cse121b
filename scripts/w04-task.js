@@ -8,11 +8,11 @@ let myProfile = {
     name: 'Lucia Robles',
     photo: 'images/me.jpg',
     favoriteFoods: [
-        'Pizza', 
-        'Shrimp',
-        'Chocolate Ice Cream',
-        'Tacos',
-        'Chinese Food'
+        'Tacos', 
+        'Pizza',
+        'Steak',
+        'Noodles',
+        'Fried Chicken'
     ],
 
     hobbies: [
