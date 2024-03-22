@@ -30,7 +30,7 @@ foodElement.innerHTML += `<br>${favFoods}`;
 favFoods.pop();
 foodElement.innerHTML += `<br>${favFoods}`;
 yearElement.textContent = currentYear;
-imageElement.setAttribute('src', picture);
+imageElement.setAttribute('src', 'images/me.jpg');
 
 
 /* Step 5 - Array */
