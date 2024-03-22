@@ -36,7 +36,7 @@ let myProfile = {
             length: '2 months'
         },
     ]
-    }
+}
 
 /* DOM Manipulation - Output */
 
