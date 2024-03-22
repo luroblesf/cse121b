@@ -1,7 +1,6 @@
 /* LESSON 3 - Programming Tasks */
 
 /* Profile Object  */
-/* Populate Profile Object with placesLive objects */
 
 let myProfile = {
 
@@ -22,6 +21,7 @@ let myProfile = {
         'Swimming'
     ],
 
+/* Populate Profile Object with placesLive objects */
     placesLived: [
         {
             place:'Quetzaltenango, GT', 
