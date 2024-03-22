@@ -7,11 +7,11 @@ let myProfile = {
     name: 'Lucia Robles',
     photo: 'images/me.jpg',
     favoriteFoods: [
-        'Tacos', 
-        'Pizza',
-        'Steak',
-        'Noodles',
-        'Fried Chicken'
+        'Pizza', 
+        'Shrimp',
+        'Chocolate Ice Cream',
+        'Tacos',
+        'Chinese Food'
     ],
 
     hobbies: [
