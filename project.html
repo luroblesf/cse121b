@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CSE 121b | W06: Final Project</title>
+
+  <link rel="stylesheet" type="text/css" href="iconos/css/all.css"/>
+  <link rel="stylesheet" type="text/css" href="styles/style.css"/>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;600&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="styles/main.css">
+</head>
+
+<body>
+  <nav>
+    <ul id="menu">
+      <li><a id="toggleMenu">&equiv;</a></li>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="w01-task.html">W1 Task</a></li>
+      <li><a href="w03-task.html">W3 Task</a></li>
+      <li><a href="w04-task.html" class="active">W4 Task</a></li>
+      <li><a href="w05-task.html">W5 Task</a></li>
+      <li><a href="project.html">Project</a></li>
+    </ul>
+  </nav>
+
+  
+  <main>
+    <audio src="audio/Yellow.mp3"></audio>
+    <section id="container">
+      <ul class="cabeza"><br>
+          <li><a href="#" class="exi"><i class="fas fa-angle-down"></i></a></li>
+          <li><a href="#" class="album">Lu Playlist</a></li>
+          <li><a href="#" class="opciones"><i class="fas fa-ellipsis-v"></i></a></li>
+      </ul>
+      <div id="caratula">
+        <img src="images/parachutes.jpg">
+      </div>
+
+      <div id="cancion">
+        <div id="nombre">
+            <a href="#">Yellow</a><br>
+            <a href="#">Coldplay</a>
+        </div>
+        <p class="favorito"><a href="#"><i class="far fa-heart"></i></a></p>
+        
+      </div>
+
+      <div id="barra">
+        <div id="progreso"></div>
+        <p class="pro">0:00</p>
+        <p class="dur">0:00</p>
+      </div>
+
+      <div id="controles">
+        <a href="#" class="min"><i class="fas fa-random"></i></a>
+        <a href="#" class="min"><i class="fas fa-step-backward"></i></a>
+        <a href="#" class="max"><i class="fas fa-play-circle" id="estado"></i></a>
+        <a href="#" class="min"><i class="fas fa-step-forward"></i></a>
+        <a href="#" class="min rep"><i class="fa fa-sync-alt"></i></a>
+      </div>
+
+      <div id="dispositivos">
+        <a href="#"><i class="fas fa-assistive-listening-systems"></i></a>
+        <a href="#"><i class="fas fa-indent"></i></a>
+      </div>
+    </section>
+
+      <script type="text/javascript" src="scripts/w06-task.js"></script>
+  </main>
+
+  
+
+  <footer>
+    &copy;<span id="year"></span> | Week 06 - Project | CSE 121b
+  </footer>
+  <script src="scripts/main.js"></script>
+  <script>
+    document.getElementById("year").innerHTML = new Date().getFullYear();
+  </script>
+  <script src="scripts/w06-task.js"></script>
+</body>
+
+</html>
