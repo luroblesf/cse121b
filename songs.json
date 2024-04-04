@@ -2,36 +2,43 @@
     {
         "songName": "Out of My League",
         "artist": "Fitz and The Tantrums",
-        "album": "More Than Just a Dream"
+        "album": "More Than Just a Dream",
+        "imageUrl":"https://en.wikipedia.org/wiki/More_Than_Just_a_Dream#/media/File:More_Than_Just_A_Dream.jpg"
     },
     {
         "songName": "Yellow",
         "artist": "Coldplay",
-        "album": "Parachutes"
+        "album": "Parachutes",
+        "imageUrl":"https://en.wikipedia.org/wiki/Parachutes_%28Coldplay_album%29#/media/File:Coldplay_-_Parachutes.png"
     },
     {
         "songName": "Transatlanticism",
         "artist": "Death Cab for Cutie",
-        "album": "Transatlanticism (10th Anniversary Edition)"
+        "album": "Transatlanticism (10th Anniversary Edition)",
+        "imageUrl":"https://en.wikipedia.org/wiki/Transatlanticism#/media/File:Transatlanticism.jpg"
     },
     {
         "songName": "Hoppípolla",
         "artist": "Sigur Rós",
-        "album": "Takk..."
+        "album": "Takk...",
+        "imageUrl":"https://en.wikipedia.org/wiki/Takk...#/media/File:Takk.jpg"
     },
     {
         "songName": "Such Great Heights",
         "artist": "The Postal Service",
-        "album": "Give Up"
+        "album": "Give Up",
+        "imageUrl":"https://en.wikipedia.org/wiki/Give_Up#/media/File:PostalService_cover300dpi.jpg"
     },
     {
         "songName": "The New Year",
         "artist": "Death Cab for Cutie",
-        "album": "Transatlanticism (10th Anniversary Edition)"
+        "album": "Transatlanticism (10th Anniversary Edition)",
+        "imageUrl":"https://en.wikipedia.org/wiki/Transatlanticism#/media/File:Transatlanticism.jpg"
     },
     {
         "songName": "Warning Sign",
         "artist": "Coldplay",
-        "album": "A Rush of Blood to the Head"
+        "album": "A Rush of Blood to the Head",
+        "imageUrl":"https://en.wikipedia.org/wiki/A_Rush_of_Blood_to_the_Head#/media/File:Coldplay_-_A_Rush_of_Blood_to_the_Head_Cover.png"
     }
 ]
