@@ -3,42 +3,48 @@
         "songName": "Out of My League",
         "artist": "Fitz and The Tantrums",
         "album": "More Than Just a Dream",
-        "imageUrl":"https://en.wikipedia.org/wiki/More_Than_Just_a_Dream#/media/File:More_Than_Just_A_Dream.jpg"
+        "imageUrl":"https://https://luroblesf.github.io/cse121b/images/morethanjustadream.jpg"
     },
     {
         "songName": "Yellow",
         "artist": "Coldplay",
         "album": "Parachutes",
-        "imageUrl":"https://en.wikipedia.org/wiki/Parachutes_%28Coldplay_album%29#/media/File:Coldplay_-_Parachutes.png"
+        "imageUrl":"https://luroblesf.github.io/cse121b/images/parachutes.jpg"
     },
     {
         "songName": "Transatlanticism",
         "artist": "Death Cab for Cutie",
         "album": "Transatlanticism (10th Anniversary Edition)",
-        "imageUrl":"https://en.wikipedia.org/wiki/Transatlanticism#/media/File:Transatlanticism.jpg"
+        "imageUrl":"https://luroblesf.github.io/cse121b/images/Transatlanticism.jpg"
     },
     {
         "songName": "Hoppípolla",
         "artist": "Sigur Rós",
         "album": "Takk...",
-        "imageUrl":"https://en.wikipedia.org/wiki/Takk...#/media/File:Takk.jpg"
+        "imageUrl":"https://luroblesf.github.io/cse121b/images/Takk.jpg"
     },
     {
         "songName": "Such Great Heights",
         "artist": "The Postal Service",
         "album": "Give Up",
-        "imageUrl":"https://en.wikipedia.org/wiki/Give_Up#/media/File:PostalService_cover300dpi.jpg"
+        "imageUrl":"https://luroblesf.github.io/cse121b/images/Giveup.jpg"
     },
     {
         "songName": "The New Year",
         "artist": "Death Cab for Cutie",
         "album": "Transatlanticism (10th Anniversary Edition)",
-        "imageUrl":"https://en.wikipedia.org/wiki/Transatlanticism#/media/File:Transatlanticism.jpg"
+        "imageUrl":"https://luroblesf.github.io/cse121b/images/Transatlanticism.jpg"
     },
     {
         "songName": "Warning Sign",
         "artist": "Coldplay",
         "album": "A Rush of Blood to the Head",
-        "imageUrl":"https://en.wikipedia.org/wiki/A_Rush_of_Blood_to_the_Head#/media/File:Coldplay_-_A_Rush_of_Blood_to_the_Head_Cover.png"
+        "imageUrl":"https://luroblesf.github.io/cse121b/images/arush.png"
+    }
+    {
+        "songName": "Lose Control",
+        "artist": "Teddy Swims",
+        "album": "I've Tried Everything But Therapy",
+        "imageUrl":"https://https://luroblesf.github.io/cse121b/images/teddyswims.jpg"
     }
 ]
